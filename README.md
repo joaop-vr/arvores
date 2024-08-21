@@ -49,7 +49,7 @@ Este comando irá compilar todos os arquivos .c e gerar um executável.
 
 Após a compilação, execute o programa gerado:
 ```bash
-exec
+./exec
 ```
 
 ## Utilização
